@@ -1,0 +1,10 @@
+.box {
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    transition: all 500ms ease;
+}
+
+.box:hover {
+    width: 750px;
+}

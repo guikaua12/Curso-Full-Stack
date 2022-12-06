@@ -1,0 +1,12 @@
+button {
+    border-radius: 5px;
+}
+
+.minus-toggle {
+    background-color: limegreen;
+
+}
+
+.add-toggle {
+    background-color: red;
+}
